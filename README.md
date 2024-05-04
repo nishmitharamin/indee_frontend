@@ -1,3 +1,5 @@
+  Cinema Platform Login Page
+
 Video link of the demonstration and the output of the code(google drive link):https://drive.google.com/file/d/1sOolM89kHfA1gZZ2f4Ml-5MWqA0qPC5R/view?usp=sharing
 
 Welcome to the Cinema Platform Login Page repository! This project contains the code for a simple yet effective login page designed for a cinema-related platform.
@@ -27,9 +29,7 @@ JavaScript: Implements the client-side functionality of the login page, includin
 
 Usage:
 To use this login page in your project, simply include the provided HTML, CSS, and JavaScript files. Customize the design and functionality as needed to fit your specific requirements.
-<!-- Include HTML -->
-<link rel="stylesheet" href="styles.css">
-<script src="app.js"></script>
+
 
 
 
